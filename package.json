@@ -1,0 +1,24 @@
+{
+  "name": "callbag-vite-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseskinner/callbag-vite-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseskinner/callbag-vite-test/issues"
+  },
+  "homepage": "https://github.com/jesseskinner/callbag-vite-test#readme",
+  "dependencies": {
+    "callbag": "^1.5.0",
+    "vite": "^2.9.9"
+  }
+}
